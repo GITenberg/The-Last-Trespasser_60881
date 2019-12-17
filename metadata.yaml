@@ -5,6 +5,9 @@ contributor:
     agent_name: Martinez
     gutenberg_agent_id: '26040'
     url: http://www.gutenberg.org/2009/agents/26040
+covers:
+- cover_type: archival
+  image_path: 60881-h/images/cover.jpg
 creator:
   author:
     agent_name: Harmon, Jim
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35040
     wikipedia: https://en.wikipedia.org/wiki/Jim_Harmon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60881#The-Last-Trespasser
 gutenberg_issued: '2019-12-08'
 gutenberg_type: Text
 identifiers:
